@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=Gradient" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=flag-india" />
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
@@ -22,3 +22,8 @@
 - This Introduction Uses:
 
    [![Shields.io](https://img.shields.io/static/v1?label=%E5%B0%8F%E5%8D%A1%E7%89%87&message=Shields.io&color=orange&labelColor=&style=for-the-badge&logo=Shields.io)](https://shields.io/)   [![API](https://img.shields.io/static/v1?label=%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%20API&message=Substats&color=orange&labelColor=&style=for-the-badge&logo=FastAPI&logoColor=brightgreen)](https://substats.spencerwoo.com/api.html)
+   
+- Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=flag-india)](https://github.com/Gongcxgithub)
+
