@@ -2,7 +2,7 @@
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
-- 🔭 I live in NanChang and be [a Student 👨‍💻](), [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGongcxgithub)](https://github.com/Gongcxgithub).
+- 🔭 I live in NanChang and be [a Student 👨‍💻]() .
 - 😎 I am also a [Blogger 📝](https://www.gcxstudio.cn).
 - :cat: I like the lovely animal most.
 - Genshin Impact 原神（天空岛），可以找我带本打 Boss 哦 (/≧▽≦)/
@@ -14,4 +14,4 @@
 
 - 📫 How to reach me: aries@gcxs.fun.
 
-   ![运行状态](https://img.shields.io/website?down_color=red&labelColor=blue&down_message=Offline%20%7C%20%E4%B8%8B%E7%BA%BF&label=%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81&style=for-the-badge&up_color=green&up_message=Online%20%7C%20%E5%9C%A8%E7%BA%BF&url=https%3A%2F%2Fgcxstudio.cn "awa")   ![GitHub](https://img.shields.io/github/license/Gongcxgithub/Gongcxgithub?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=Github&style=for-the-badge)
+   ![运行状态](https://img.shields.io/website?down_color=red&labelColor=blue&down_message=Offline%20%7C%20%E4%B8%8B%E7%BA%BF&label=%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81&style=for-the-badge&up_color=green&up_message=Online%20%7C%20%E5%9C%A8%E7%BA%BF&url=https%3A%2F%2Fgcxstudio.cn "awa")   ![GitHub](https://img.shields.io/github/license/Gongcxgithub/Gongcxgithub?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=Github&style=for-the-badge)   [![Github Follow 人数](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGongcxgithub&&style=for-the-badge&color=orange&labelColor=blue)](https://github.com/Gongcxgithub)
