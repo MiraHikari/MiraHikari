@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=flag-india" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=Gradient" />
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
