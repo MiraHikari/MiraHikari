@@ -10,7 +10,7 @@
 - Chat with me through these platforms!
 
 
-![QQ](https://img.shields.io/static/v1?label=%E8%85%BE%E8%AE%AF%20QQ&message=3175992523&color=orange&style=for-the-badge&labelColor=blue&logoColor=black&logo=Tencent%20QQ)   ![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@Gong_cx&color=blue&style=for-the-badge&labelColor=green&logo=telegram)   ![Discord](https://img.shields.io/discord/879563083616489502?color=orange&label=Discord%20%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&style=for-the-badge&labelColor=blue)
+![QQ](https://img.shields.io/static/v1?label=%E8%85%BE%E8%AE%AF%20QQ&message=3175992523&color=orange&style=for-the-badge&labelColor=blue&logoColor=black&logo=Tencent%20QQ)   ![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@Gong_cx&color=blue&style=for-the-badge&labelColor=green&logo=telegram)   ![Discord](https://img.shields.io/discord/879563083616489502?label=Discord%20%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&style=for-the-badge)
 
 - 📫 How to reach me: aries@gcxs.fun.
 
