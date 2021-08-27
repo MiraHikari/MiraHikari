@@ -1,4 +1,4 @@
-<img style="text-align:right;" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+<img style="text-align: right;" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
