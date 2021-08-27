@@ -4,7 +4,7 @@
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
-- 🔭 I live in Nanchang and be [a student 👨‍💻](https://github.com/Gongcxgithub) .
+- 🔭 I live in Nanchang and [a student 👨‍💻](https://github.com/Gongcxgithub) .
 - 😎 I am also a [Blogger 📝](https://www.gcxstudio.cn).
 - :cat: I like the lovely animal most.
 - Genshin Impact 原神（天空岛），可以找我带本打 Boss 哦 (/≧▽≦)/
