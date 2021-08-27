@@ -27,4 +27,5 @@
    
 - Top Languages
 
-   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E8%AF%AD%E8%A8%80%E4%BD%BF%E7%94%A8%E9%A2%91%E7%8E%87%E8%A1%A8)](https://github.com/Gongcxgithub)
+   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E8%AF%AD%E8%A8%80%E4%BD%BF%E7%94%A8%E9%A2%91%E7%8E%87%E8%A1%A8)](https://github.com/Gongcxgithub)   [![Navigation](https://github-readme-stats.vercel.app/api/pin/?username=GBCLStudio&repo=navigation&theme=vue-dark&show_owner=true)](https://github.com/GBCLStudio/navigation)
+
