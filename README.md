@@ -27,4 +27,4 @@
 - Top Langs:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark)](https://github.com/Gongcxgithub)    [![My Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark)](https://github.com/Gongcxgithub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark)](https://github.com/Gongcxgithub)    [![My Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gongcxgithub&langs_count=10&theme=vue-dark)](https://github.com/Gongcxgithub)
