@@ -2,7 +2,7 @@
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
-- 🔭 I live in Nanchang and be [a student 👨‍💻]() .
+- 🔭 I live in Nanchang and be [a student 👨‍💻](javascript:alert('Elementary school students in the second class of the sixth grade（雾）');) .
 - 😎 I am also a [Blogger 📝](https://www.gcxstudio.cn).
 - :cat: I like the lovely animal most.
 - Genshin Impact 原神（天空岛），可以找我带本打 Boss 哦 (/≧▽≦)/
