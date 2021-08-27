@@ -1,9 +1,6 @@
 <a href="https://github.com/Gongcxgithub" one-link-mark="yes" target="_blank">
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E7%BB%9F%E8%AE%A1%E5%8D%A1" />
 </a>
-<a href="https://github.com/GBCLStudio/navigation" one-link-mark="yes" target="_blank">
-<img align="right" alt="Navigation" src="https://github-readme-stats.vercel.app/api/pin/?username=GBCLStudio&repo=navigation&theme=vue-dark&show_owner=true" />
-</a>
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
