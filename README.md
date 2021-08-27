@@ -10,7 +10,7 @@
 - Chat with me through these platforms!
 
 
-![QQ](https://img.shields.io/static/v1?label=%E8%85%BE%E8%AE%AF%20QQ&message=3175992523&color=orange&style=for-the-badge&labelColor=blue&logoColor=black&logo=Tencent%20QQ)
+![QQ](https://img.shields.io/static/v1?label=%E8%85%BE%E8%AE%AF%20QQ&message=3175992523&color=orange&style=for-the-badge&labelColor=blue&logoColor=orange&logo=Tencent%20QQ)
 
 - 📫 How to reach me: aries@gcxs.fun.
 
