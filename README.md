@@ -1,5 +1,5 @@
 <a href="https://github.com/Gongcxgithub" one-link-mark="yes" target="_blank">
-<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=flag-india" />
+<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=vue-dark" />
 </a>
 ### Hello！Here is Gong_cx's Github！ 👋
 
@@ -27,5 +27,5 @@
 - Top Langs:
 
 <a href="https://github.com/Gongcxgithub" one-link-mark="yes" target="_blank">
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=flag-india" />
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark" />
 </a>
