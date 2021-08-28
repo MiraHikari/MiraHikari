@@ -23,6 +23,6 @@
 
 - This Introduction Uses:
 
-   [![Shields.io](https://img.shields.io/static/v1?label=%E5%B0%8F%E5%8D%A1%E7%89%87&message=Shields.io&color=orange&labelColor=&style=for-the-badge&logo=Shields.io)](https://shields.io/)   [![API](https://img.shields.io/static/v1?label=%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%20API&message=Substats&color=orange&labelColor=&style=for-the-badge&logo=FastAPI&logoColor=brightgreen)](https://substats.spencerwoo.com/api.html)
+   [![Shields.io](https://img.shields.io/static/v1?label=%E5%B0%8F%E5%8D%A1%E7%89%87&message=Shields.io&color=orange&labelColor=&style=for-the-badge&logo=Shields.io)](https://shields.io/)   [![API](https://img.shields.io/static/v1?label=%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%20API&message=Substats&color=orange&labelColor=&style=for-the-badge&logo=FastAPI&logoColor=brightgreen)](https://substats.spencerwoo.com/api.html)   [![统计卡](https://img.shields.io/static/v1?label=Github%20%E4%BF%A1%E6%81%AF%E7%BB%9F%E8%AE%A1%E5%8D%A1&message=GitHub%20Readme%20Stats&color=orange&labelColor=&style=for-the-badge&logo=Github)](https://github.com/anuraghazra/github-readme-stats)
 
    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E8%AF%AD%E8%A8%80%E4%BD%BF%E7%94%A8%E9%A2%91%E7%8E%87%E8%A1%A8)](https://github.com/Gongcxgithub)
