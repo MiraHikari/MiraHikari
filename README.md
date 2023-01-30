@@ -1,5 +1,5 @@
-<a href="https://github.com/Gongcxgithub" one-link-mark="yes" target="_blank">
-<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gongcxgithub&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E7%BB%9F%E8%AE%A1%E5%8D%A1" />
+<a href="https://github.com/GongCx-Github" one-link-mark="yes" target="_blank">
+<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=GongCx-Github&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E7%BB%9F%E8%AE%A1%E5%8D%A1" />
 </a>
 
 ### Hello！Here is Gong_cx's Github！ 👋
@@ -17,7 +17,7 @@
 - Other information:
 
 
-   [![运行状态](https://img.shields.io/website?down_color=red&labelColor=blue&down_message=Offline%20%7C%20%E4%B8%8B%E7%BA%BF&label=DEMO%20%E6%BC%94%E7%A4%BA%E9%A1%B5%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81&style=for-the-badge&up_color=green&up_message=Online%20%7C%20%E5%9C%A8%E7%BA%BF&url=https%3A%2F%2Fgcxstudio.cn "awa")](https://gcxstudio.cn)   [![License](https://img.shields.io/github/license/Gongcxgithub/Gongcxgithub?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=GNU&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html)   [![Github Follow 人数](https://img.shields.io/badge/dynamic/json?color=orange&suffix=%20Fans&style=for-the-badge&labelColor=blue&label=Github%20Follow%20%E4%BA%BA%E6%95%B0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGongcxgithub&&logo=github)](https://github.com/Gongcxgithub)
+   [![运行状态](https://img.shields.io/website?down_color=red&labelColor=blue&down_message=Offline%20%7C%20%E4%B8%8B%E7%BA%BF&label=DEMO%20%E6%BC%94%E7%A4%BA%E9%A1%B5%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81&style=for-the-badge&up_color=green&up_message=Online%20%7C%20%E5%9C%A8%E7%BA%BF&url=https%3A%2F%2Fgcxstudio.cn "awa")](https://gcxstudio.cn)   [![License](https://img.shields.io/github/license/GongCx-Github/GongCx-Github?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=GNU&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html)   [![Github Follow 人数](https://img.shields.io/badge/dynamic/json?color=orange&suffix=%20Fans&style=for-the-badge&labelColor=blue&label=Github%20Follow%20%E4%BA%BA%E6%95%B0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGongCx-Github&&logo=github)](https://github.com/GongCx-Github)
    
 ### About
 
@@ -25,4 +25,4 @@
 
    [![Shields.io](https://img.shields.io/static/v1?label=%E5%B0%8F%E5%8D%A1%E7%89%87&message=Shields.io&color=orange&labelColor=&style=for-the-badge&logo=Shields.io)](https://shields.io/)   [![API](https://img.shields.io/static/v1?label=%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%20API&message=Substats&color=orange&labelColor=&style=for-the-badge&logo=FastAPI&logoColor=brightgreen)](https://substats.spencerwoo.com/api.html)   [![统计卡](https://img.shields.io/static/v1?label=Github%20%E4%BF%A1%E6%81%AF%E7%BB%9F%E8%AE%A1%E5%8D%A1&message=GitHub%20Readme%20Stats&color=orange&labelColor=&style=for-the-badge&logo=Github)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongcxgithub&langs_count=10&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E8%AF%AD%E8%A8%80%E4%BD%BF%E7%94%A8%E9%A2%91%E7%8E%87%E8%A1%A8)](https://github.com/Gongcxgithub)
+   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GongCx-Github&langs_count=10&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E8%AF%AD%E8%A8%80%E4%BD%BF%E7%94%A8%E9%A2%91%E7%8E%87%E8%A1%A8)](https://github.com/Gongcxgithub)
