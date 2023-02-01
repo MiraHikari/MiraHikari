@@ -15,10 +15,8 @@
 
 - 🤗 Stacks：
 
-   Frontend: React, Emotion, JSS, TypeScript, Electron, Redux, Pinia, Vue 3, jQuery, Vite, WebPack, PWA, Service Worker, ESNext (2022), CSS3, H5...
-
-   Backend: Node.js, Express, Koa, Egg.js, PHP (8.1), EdgeNet, MySQL, mongoDB, Redis, CommonJS & ESM, EJS & Pug, ESLint (?)...
-
+   ![技术栈们](https://user-images.githubusercontent.com/69497500/216015283-c2502f1c-b009-4b40-a1fb-b2cc7805e94c.png)
+   
 - Other information:
 
 
