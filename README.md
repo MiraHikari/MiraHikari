@@ -5,8 +5,8 @@
 ### Hello！Here is Gong_cx's Github！ 👋
 
 - 🔭 I live in China and is a student 👨‍💻 .
-- 🤡 I am twelve years old now ❤️.
-- 😎 I am also a Blogger 📝 (DEV).
+- 🤡 I am 12 (2022) years old now ❤️.
+- 😎 I am also a Blogger 📝 (NOT Available).
 - 😍 我是原批, UID: 183342503, 全员刮痧带我玩 🥰.
 - 📫 How to reach me:
 
