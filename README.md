@@ -7,7 +7,7 @@
 - 🔭 I live in China and is a student 👨‍💻 .
 - 🤡 I am twelve years old now ❤️.
 - 😎 I am also a Blogger 📝 (DEV).
-- Genshin Impact 原神（天空岛），可以找我带本打 Boss 哦 (/≧▽≦)/
+- 😍 我是原批, UID: 183342503, 全员刮痧带我玩 🥰.
 - 📫 How to reach me:
 
 
