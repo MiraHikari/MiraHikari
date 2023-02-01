@@ -16,10 +16,3 @@
 - 🤗 Stacks：
 
    ![技术栈们](https://user-images.githubusercontent.com/69497500/216015283-c2502f1c-b009-4b40-a1fb-b2cc7805e94c.png)
-   
-- Other information:
-
-
-   [![License](https://img.shields.io/github/license/GongCx-Github/GongCx-Github?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=GNU&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html)   [![Github Follow 人数](https://img.shields.io/badge/dynamic/json?color=orange&suffix=%20Fans&style=for-the-badge&labelColor=blue&label=Github%20Follow%20%E4%BA%BA%E6%95%B0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGongCx-Github&&logo=github)](https://github.com/GongCx-Github)
-
-   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GongCx-Github&langs_count=10&show_icons=true&theme=vue-dark&custom_title=%E6%88%91%E7%9A%84%20Github%20%E8%AF%AD%E8%A8%80%E4%BD%BF%E7%94%A8%E9%A2%91%E7%8E%87%E8%A1%A8)](https://github.com/GongCx-github)
