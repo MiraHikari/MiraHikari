@@ -4,9 +4,8 @@
 
 ### Hello！Here is Gong_cx's Github！ 👋
 
-- 🔭 I live in China and is a student 👨‍💻 .
-- 🤡 I am 12 (2022) years old now ❤️.
-- 😎 I am also a Blogger 📝 (NOT Available).
+- 🔭 I'm Front-end & Back-end developer.
+- 🥱 Twelve years old now, mainly using TS/JS for full stack development, while cloud services and operations have some development experience.
 - 😍 我是原批, UID: 183342503, 全员刮痧求带 🥰.
 - 📫 How to reach me:
 
