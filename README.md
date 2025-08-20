@@ -1,6 +1,9 @@
-### Hello！Here is Gong_cx 👋
+### Hi there! I'm Gong_cx 👋
 
-Hey, I am Gong_cx, a.k.a MiraHikari, a student in Nanchang.
+Also known as MiraHikari ✨  
 
-Get more information at my [website](https://www.gcxstudio.cn/)
+Currently a student in Nanchang 🎓
+  
+Born in 2010, web full-stack dev with JS/TS, etc. 💻
 
+Curious about me? Check out my [website](https://www.gcxstudio.cn/) 🌐
